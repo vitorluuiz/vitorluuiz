@@ -2,10 +2,10 @@
   <img src="./assets/Banner_github_green.png" width="100%" alt="Vitor Gonçalves Banner" />
 </div> -->
 
-<h1 align="center">Olá, eu sou o Vitor Gonçalves 👋</h1>
+<h1 align="center">Olá, eu me chamo Vitor Luiz de Carvalho Gonçalves</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack | C# .NET • React & Next.js • Cloud</b><br>
+  <b>Desenvolvedor Fullstack | C# .NET • React & Nextjs | vite • Cloud</b><br>
   <i>Graduado em ADS | Ex-Professor e Coordenador Pedagógico em TI | Certificado Microsoft Azure AI-900</i>
 </p>
 
@@ -29,13 +29,11 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
-
 Sou **Desenvolvedor Fullstack** com 4 anos de formação e vivência acadêmica na área e 2 anos de experiência profissional atuando como **professor de ensino técnico profissionalizante** e **coordenador pedagógico** em Desenvolvimento de Sistemas.
 
 Essa trajetória profissional me proporcionou uma sólida base técnica e um diferencial estratégico: **comunicação assertiva, liderança técnica, didática e facilidade para aprender, estruturar e transmitir conceitos arquiteturais complexos**.
 
-No desenvolvimento, meu foco é a criação de aplicações escaláveis, distribuídas, resilientes e de alta performance, unindo o ecossistema robusto do **C# (.NET / .NET Core)** a interfaces dinâmicas em **React / Next.js**, além de integração de microsserviços especializados com **Python (IA e automação)** e arquiteturas orientadas a eventos em tempo real.
+No desenvolvimento, meu foco é a criação de aplicações escaláveis, distribuídas, resilientes e de alta performance, unindo o ecossistema robusto do **C# (.NET / .NET Core)** a interfaces dinâmicas em **React / Nextjs | vite**, além de integração de microsserviços especializados com **Python (IA e automação)** e arquiteturas orientadas a eventos em tempo real.
 
 - 🎯 **Objetivo:** Oportunidades como **Desenvolvedor Trainee, Júnior, Fullstack ou Analista Desenvolvedor**.
 - 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas** (Faculdade Carlos Drummond de Andrade) e Técnico em Desenvolvimento de Sistemas (**SENAI Informática**).
@@ -169,17 +167,6 @@ flowchart LR
 
 * 🚚 **[SAF — Sistema de Administração de Frotas](https://github.com/vitorluuiz/SAF):** Projeto desenvolvido com mentoria da empresa OK Entrega. Composto por painel Web em React, aplicativo mobile em React Native para operações de campo com OCR, **microserviço em Python (FastAPI + `imgcompare`)** para auditoria visual da frota e API RESTful em C# .NET com Entity Framework.
 * 🤖 **[Kea](https://github.com/vitorluuiz/Kea):** Software CLI para simulação de interações de usuários em websites e aplicações em tempo real através de scripts determinísticos ou agentes orientados por LLMs.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vitorluuiz&show_icons=true&bg_color=0d1117&title_color=32f032&icon_color=32f032&text_color=FFFFFF&border_color=238636" alt="Vitor's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorluuiz&layout=compact&bg_color=0d1117&title_color=32f032&icon_color=fffb08&text_color=FFFFFF&border_color=238636" alt="Top Languages" />
-</div>
-
----
 
 ## 📬 Vamos Conversar?
 
